@@ -1,6 +1,4 @@
-# C-Photo-Smoothing-Code
- 
-**Sequential and Parallel Image Smoothing**
+# Sequential and Parallel Image Smoothing
 
 In this program, we used parallel computing. Our purpose is high performance computing and gaining time with using data parallelism. We write 2 different code firstly sequential and secondly parallel codes also we learn that how can we smooth image. We understand that using 1,2, and 4 MPI Processes how it changed elapsed timings, speed-ups and efficiencies according to our parallel algorithms.
 
